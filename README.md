@@ -1,2 +1,2 @@
-# Fornax_Aetnae_Conceptuum
-Fornax_Aetnae_Conceptuum - Infraestructura de prototipado rápido en Specus Illa
+# Fornax_Conceptuum
+Fornax_Conceptuum - Infraestructura de prototipado rápido en SpecusIlla
